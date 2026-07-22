@@ -1,4 +1,5 @@
-# CRUD User Adding App using Node.js and MySQL
+# User Management System  
+
 
 A simple CRUD application built with **Node.js**, **Express**, **EJS**, and **MySQL**. It allows you to **create**, **read**, **update**, and **delete** user records stored in a MySQL database.
 
